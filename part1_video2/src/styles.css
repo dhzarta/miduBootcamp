@@ -1,0 +1,12 @@
+body {
+    padding: 16px;
+}
+table {
+    table-layout: fixed;
+    width: 40%;
+    border-collapse: collapse;
+    border: 2px solid purple;
+  }
+  th, td {
+    padding: 5px;
+  }
