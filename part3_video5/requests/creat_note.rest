@@ -1,0 +1,17 @@
+POST http://localhost:3001/api/notes
+Content-Type:application/json
+
+{
+    "content": "Otra nota de prueba sin important"
+    
+}
+
+###
+
+POST http://localhost:3001/api/notes
+Content-Type:application/json
+
+{
+    "content": "Otra nota de prueba sin important"
+    
+}
